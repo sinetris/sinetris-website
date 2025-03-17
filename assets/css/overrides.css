@@ -1,0 +1,30 @@
+:root {
+  --color-primary-hue: 280deg;
+  --color-primary-chroma: 10%;
+  --color-primary-lightness: 70%;
+  --colors-chroma: 15%;
+}
+
+#primary-navigation .brand img {
+  height: 3.5em;
+  border-radius: 50%;
+  padding: .2em;
+  background-color: var(--color-surface-tint-color);
+}
+
+#primary-navigation nav.menu>ul>li>ul {
+  display: none;
+}
+
+
+@media only screen and (width <= 480px) {
+  #primary-navigation hgroup.title {
+    font-size: .5em;
+  }
+  #primary-navigation hgroup.title p {
+    font-size: 2em;
+  }
+  #primary-navigation .brand img {
+    margin: 0;
+  }
+}
