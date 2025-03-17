@@ -1,4 +1,7 @@
 baseURL = 'https://sinetris.info/'
 languageCode = 'en-us'
-title = "Sinetris's viewpoint"
+title = "Sinetris's viewpoints"
 theme = 'sine-die'
+
+[params]
+subTitle = "Pragmatic overviews"

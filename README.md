@@ -1,4 +1,4 @@
-# Sinetris's viewpoint
+# Sinetris's viewpoints
 
 ## 📄 Licenses
 
