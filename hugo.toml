@@ -5,3 +5,7 @@ theme = 'sine-die'
 
 [params]
 subTitle = "Pragmatic overviews"
+
+# License
+license = "CC-BY-4.0"
+licenselink = "https://github.com/sinetris/sinetris-website/blob/main/LICENSE-DOCS"
