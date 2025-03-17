@@ -1,0 +1,11 @@
+<span class="brand">
+  <a href="/">
+    {{ with resources.Get "images/sinetris-logo.svg" | resources.Fingerprint "sha512" -}}
+    <img src="{{- .RelPermalink -}}" />
+    {{- end }}
+    <hgroup class="title">
+      <span>{{ .Site.Title }}</span>
+      <p>{{ or .FirstSection.Params.SubTitle .Site.Params.SubTitle }}</p>
+    </hgroup>
+  </a>
+</span>
