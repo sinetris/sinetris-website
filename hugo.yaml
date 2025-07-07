@@ -1,0 +1,36 @@
+---
+title: Sinetris's viewpoints
+baseURL: https://sinetris.info/
+languageCode: en
+theme:
+  - github.com/sinetris/sine-die
+
+module:
+  proxy: direct
+  # replacements: 'github.com/sinetris/sine-die -> /Users/duilioruggiero/Documents/projects/sinetris-network/repos/sine-die'
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
+  imports:
+    - path: github.com/sinetris/sine-die
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+    lineNumbersInTable: false
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+    renderer:
+      unsafe: true
+
+params:
+  tagline: Pragmatic overviews by Duilio Ruggiero
+  showSearchUI: true
+  enableFavicons: true
+  license: CC-BY-4.0
+  licenselink: https://github.com/sinetris/sinetris-website/blob/main/LICENSE-DOCS
+  logo: images/sinetris-logo.svg
