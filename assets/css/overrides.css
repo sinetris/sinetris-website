@@ -21,9 +21,11 @@
   #primary-navigation hgroup.title {
     font-size: .5em;
   }
+
   #primary-navigation hgroup.title p {
     font-size: 2em;
   }
+
   #primary-navigation .brand img {
     margin: 0;
   }
