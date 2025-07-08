@@ -2,4 +2,4 @@ module github.com/sinetris/sinetris-website
 
 go 1.24
 
-require github.com/sinetris/sine-die v0.2.0 // indirect
+require github.com/sinetris/sine-die v0.2.1 // indirect
