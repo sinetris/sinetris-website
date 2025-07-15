@@ -37,19 +37,19 @@ params:
 
 menus:
   main:
-  - name: GitHub
-    url: https://github.com/sinetris/
-    weight: 110
-    params:
-      isExternalLink: true
-      onlyVisualSign: true
-      visualSign: github
-      visualSignType: brand
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/duilioruggiero/
-    weight: 120
-    params:
-      isExternalLink: true
-      onlyVisualSign: true
-      visualSign: linkedin
-      visualSignType: brand
+    - name: GitHub
+      url: https://github.com/sinetris/
+      weight: 110
+      params:
+        isExternalLink: true
+        onlyVisualSign: true
+        visualSign: github
+        visualSignType: brand
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/duilioruggiero/
+      weight: 120
+      params:
+        isExternalLink: true
+        onlyVisualSign: true
+        visualSign: linkedin
+        visualSignType: brand
