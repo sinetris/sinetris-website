@@ -7,7 +7,7 @@ theme:
 
 module:
   proxy: direct
-  # replacements: 'github.com/sinetris/sine-die -> /Users/duilioruggiero/Documents/projects/sinetris-network/repos/sine-die'
+  # replacements: 'github.com/sinetris/sine-die -> ../'
   hugoVersion:
     extended: true
     min: "0.146.0"
@@ -34,3 +34,22 @@ params:
   license: CC-BY-4.0
   licenselink: https://github.com/sinetris/sinetris-website/blob/main/LICENSE-DOCS
   logo: images/sinetris-logo.svg
+
+menus:
+  main:
+  - name: GitHub
+    url: https://github.com/sinetris/
+    weight: 110
+    params:
+      isExternalLink: true
+      onlyVisualSign: true
+      visualSign: github
+      visualSignType: brand
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/duilioruggiero/
+    weight: 120
+    params:
+      isExternalLink: true
+      onlyVisualSign: true
+      visualSign: linkedin
+      visualSignType: brand
