@@ -5,15 +5,20 @@ description: |
   An umbrella term that covers all technical means used to handle information
   and facilitate communication.
 params:
-  context: tech
+  contexts:
+    - Tech
   abbreviations:
     - ICT
+  related:
+    - information-technology
   externalResources:
-    - title: ICT (eurostat glossary)
+    - title: ICT
+      source: Eurostat Glossary
       link: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Information_and_communication_technology_(ICT)
 ---
 
-An umbrella term that covers all technical means used to handle information
-and facilitate communication. It includes computer hardware (such as mainframes,
-desktops, laptops, mobile devices, or anything else with a CPU), network hardware,
-and any related software.
+An umbrella term that encompasses all technical means used to handle information
+and facilitate communication through the use of computing devices (e.g., desktops,
+laptops, servers, mainframes, smartphones, tablet, or any other CPU-equipped device),
+network equipment (e.g., routers, switches, modems, cables), other peripherals (e.g.,
+printers, scanners, external hard drives), and any related software.

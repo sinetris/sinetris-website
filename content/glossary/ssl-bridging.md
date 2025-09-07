@@ -4,9 +4,12 @@ slug: ssl-bridging
 date: '2025-07-02T07:50:28Z'
 description: |
   The load balancer decrypts the incoming encrypted traffic (same as in
-  SSL-Termination) and re-encrypts it when sending to the back-end server.
+  SSL-Termination) and re-encrypts it when sending to the destination (e.g.
+  backend instances).
 params:
-  context: tech
+  contexts:
+    - Tech
+    - Networking
   synonyms:
     - SSL/TLS Termination
     - TLS Termination

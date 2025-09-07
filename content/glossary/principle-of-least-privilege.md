@@ -5,5 +5,7 @@ description: |
   Security concept whereby a user or service is granted the minimum levels of access
   and authorization necessary to perform the requested task.
 params:
-  context: tech
+  contexts:
+    - Cyber Security
+    - IAM
 ---
