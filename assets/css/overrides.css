@@ -2,7 +2,7 @@
   --color-primary-hue: 280deg;
   --color-primary-chroma: 10%;
   --color-primary-lightness: 70%;
-  --colors-chroma: 15%;
+  --colors-secondary-hue-angle: 30deg;
 }
 
 .sinetris {
@@ -41,11 +41,6 @@ nav.primary {
   &::before {
     font-size: 2em;
   }
-}
-
-
-[data-function="switch-color-scheme"] {
-  margin-left: .75em;
 }
 
 body.about-page>main .logos {
