@@ -3,7 +3,6 @@ title: Access Management
 date: '2024-07-15T16:27:00Z'
 description: Access Management
 categories:
-  - IAM
   - IGA
   - Security
 tags:

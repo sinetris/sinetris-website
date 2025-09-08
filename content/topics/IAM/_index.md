@@ -1,19 +1,14 @@
 ---
-title: IAM overview
+title: IAM
 date: '2024-06-28T10:15:50Z'
 description: A pragmatic overview on Identity and Access Management
 weight: 50
-categories:
-  - IAM
-tags:
-  - IAM
-  - Documentation
 cascade:
   menus:
     main:
       parent: iam
   params:
-    tagline: A pragmatic overview on IAM
+    tagline: Identity and Access Management
 menus:
   main:
     identifier: iam

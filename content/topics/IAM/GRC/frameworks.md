@@ -8,10 +8,9 @@ categories:
 tags:
   - Frameworks
   - Compliance
-  - GRC
 menus:
   main:
-    parent: compliance
+    parent: GRC
 ---
 
 ## Requirements and Regulations

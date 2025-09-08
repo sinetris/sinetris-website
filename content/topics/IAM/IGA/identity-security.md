@@ -2,8 +2,11 @@
 title: Identity Security
 date: '2023-07-16T18:20:00Z'
 description: Identity Security
-categories: [IAM, IGA, Security]
-tags: [IA, Confidentiality, Integrity]
+categories:
+  - IAM
+  - IGA
+tags:
+  - Orphan Account
 menus:
   main:
     parent: iga

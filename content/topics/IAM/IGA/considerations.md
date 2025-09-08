@@ -3,8 +3,11 @@ title: Advices
 date: '2023-07-16T18:20:00Z'
 description: |
   Advices, considerations, suggestions, and pitfalls around IGA implementation.
-categories: [IAM, IGA]
-tags: [Access Requests, Access Revocation, Provisioning, Deprovisioning]
+categories:
+  - IAM
+  - IGA
+tags:
+  - Orphan Account
 menus:
   main:
     parent: iga

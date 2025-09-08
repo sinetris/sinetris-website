@@ -2,10 +2,10 @@
 title: Information Assurance
 date: '2025-03-17T10:43:09Z'
 description: |
-  The practice of assuring information quality and managing risks related to the use, processing, storage, and transmission of information.
+  The practice of assuring information quality and managing risks related to the
+  use, processing, storage, and transmission of information.
 tags:
   - Compliance
-  - GRC
   - Confidentiality
   - Integrity
   - Availability
