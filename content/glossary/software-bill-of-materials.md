@@ -4,11 +4,15 @@ date: '2023-08-06T10:10:15Z'
 description: |
   A comprehensive inventory of all the components used in a software.
 params:
-  context: tech
+  contexts:
+    - Tech
+    - Cyber Security
+    - GRC
   abbreviations:
     - SBOM
   externalResources:
-    - title: CISA SBOM
+    - title: Software Bill of Materials (SBOM)
+      source: CISA
       link: https://www.cisa.gov/sbom
 ---
 

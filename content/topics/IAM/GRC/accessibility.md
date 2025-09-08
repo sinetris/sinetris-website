@@ -5,12 +5,12 @@ weight: 50
 tags:
   - Accessibility
   - Compliance
-  - GRC
 categories:
   - GRC
 menus:
   main:
-    parent: compliance
+    identifier: grc-accessibility
+    parent: GRC
 ---
 
 ## Accessibility Directives and Guidelines

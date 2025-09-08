@@ -2,6 +2,9 @@
 title: Identity Lifecicle Management
 date: '2023-07-16T18:20:00Z'
 description: Identity Lifecicle Management
+categories:
+  - IAM
+  - IGA
 menus:
   main:
     parent: iga

@@ -1,0 +1,3 @@
+---
+module:
+  replacements: 'github.com/sinetris/sine-die -> ../../sine-die'

@@ -5,7 +5,8 @@ description: |
   Native or built-in feature or functionality of a product, included by default
   and that works immediately after first setup.
 params:
-  context: tech
+  contexts:
+    - Tech
   synonyms:
     - out-of-the-box
     - out-of-box

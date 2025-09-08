@@ -4,9 +4,14 @@ slug: ssl-termination
 date: '2025-07-02T07:50:28Z'
 description: |
   The load balancer decrypts the incoming encrypted traffic and sends it to the
-  backend server unencrypted.
+  destination (e.g. backend instances) unencrypted.
+categories:
+  - Tech
+  - Networking
 params:
-  context: tech
+  contexts:
+    - Tech
+    - Networking
   synonyms:
     - SSL/TLS Termination
     - TLS Termination

@@ -5,7 +5,6 @@ weight: 30
 tags:
   - Compliance
   - Compliance as Code
-  - GRC
   - SCAP
   - OSCAL
   - OPA
@@ -14,7 +13,7 @@ categories:
   - Automation
 menus:
   main:
-    parent: compliance
+    parent: GRC
 ---
 
 ## Standards
