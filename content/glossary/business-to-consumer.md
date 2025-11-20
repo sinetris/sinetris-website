@@ -12,7 +12,7 @@ params:
   abbreviations:
     - B2C
   related:
-    - B2B
-    - B2E
+    - business-to-business
+    - business-to-employee
   externalResources: []
 ---

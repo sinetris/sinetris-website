@@ -11,6 +11,6 @@ params:
   abbreviations:
     - CLI
   related:
-    - GUI
+    - graphical-user-interface
   externalResources: []
 ---
