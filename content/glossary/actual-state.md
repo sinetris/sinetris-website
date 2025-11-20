@@ -1,15 +1,20 @@
 ---
 title: Actual State
 date: '2025-11-10T13:47:54Z'
-draft: true
 description: |
-  Short description for **Actual State**
+  The Actual State is the current and factual condition of a system or its data
+  as opposed to the the {{< glossary-term term="desired-state" >}}.
 params:
   contexts:
     - Cyber Security
     - IAM
-  synonyms: []
+    - GitOps
+    - Tech
+  synonyms:
+    - Current State
   abbreviations: []
-  related: []
+  related:
+    - desired-state
+    - drift
   externalResources: []
 ---
