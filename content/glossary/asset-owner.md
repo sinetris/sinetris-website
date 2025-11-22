@@ -1,9 +1,9 @@
 ---
-title: Application Owner
+title: Asset Owner
 date: '2025-11-22T08:01:09Z'
 draft: true
 description: |
-  Short description for **Application Owner**
+  Short description for **Asset Owner**
 params:
   contexts:
     - Cyber Security
