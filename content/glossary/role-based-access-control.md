@@ -1,5 +1,6 @@
 ---
 title: Role-Based Access Control
+linkTitle: Role-Based Access Control (RBAC)
 date: '2025-11-22T08:07:44Z'
 draft: true
 description: |
@@ -11,6 +12,8 @@ params:
   synonyms: []
   abbreviations:
     - RBAC
-  related: []
+  related:
+    - Attribute-Based Access Control
+    - Role-Based Access Control
   externalResources: []
 ---

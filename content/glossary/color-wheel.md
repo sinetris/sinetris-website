@@ -9,7 +9,7 @@ params:
   synonyms:
     - color circle
   related:
-    - color-harmonies
+    - Color Harmonies
   externalResources:
     - title: Color wheel
       source: MDN Web Docs

@@ -10,7 +10,7 @@ params:
   abbreviations:
     - ICT
   related:
-    - information-technology
+    - Information Technology
   externalResources:
     - title: ICT
       source: Eurostat Glossary

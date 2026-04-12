@@ -12,6 +12,6 @@ params:
   abbreviations:
     - SOAR
   related:
-    - SIEM
+    - Security Information and Event Management
   externalResources: []
 ---

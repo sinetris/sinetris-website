@@ -10,5 +10,5 @@ params:
   abbreviations:
     - RPO
   related:
-    - recovery-time-objective
+    - Recovery Time Objective
 ---

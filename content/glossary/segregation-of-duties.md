@@ -13,7 +13,7 @@ params:
   abbreviations:
     - SoD
   related:
-    - principle-of-least-privilege
+    - Principle of Least Privilege
   externalResources:
     - title: What is Segregation of Duties?
       source: OpenIAM

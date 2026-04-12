@@ -7,5 +7,5 @@ params:
   contexts:
     - Graphic Design
   related:
-    - color-harmonies
+    - Color Harmonies
 ---

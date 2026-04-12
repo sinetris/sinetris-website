@@ -1,5 +1,6 @@
 ---
 title: Policy-Based Access Control
+linkTitle: Policy-Based Access Control (PBAC)
 date: '2025-11-22T08:07:24Z'
 draft: true
 description: |
@@ -11,6 +12,7 @@ params:
   synonyms: []
   abbreviations:
     - PBAC
-  related: []
+  related:
+    - Role-Based Access Control
   externalResources: []
 ---
