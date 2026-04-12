@@ -1,5 +1,5 @@
 ---
-title: Publish Subscribe
+title: Publish/Subscribe
 date: '2025-11-24T16:46:18Z'
 draft: true
 description: |
@@ -11,7 +11,8 @@ params:
     - Information Security
     - Tech
   synonyms: []
-  abbreviations: []
+  abbreviations:
+    - pub/sub
   related: []
   externalResources: []
 ---

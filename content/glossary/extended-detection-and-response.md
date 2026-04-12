@@ -12,6 +12,6 @@ params:
   abbreviations:
     - XDR
   related:
-    - SIEM
+    - Security Information and Event Management
   externalResources: []
 ---

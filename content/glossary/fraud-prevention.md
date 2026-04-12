@@ -8,6 +8,7 @@ params:
   contexts:
     - Cyber Security
     - IAM
+    - Information Security
   synonyms: []
   abbreviations: []
   related: []

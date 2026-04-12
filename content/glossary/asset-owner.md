@@ -1,15 +1,23 @@
 ---
 title: Asset Owner
 date: '2025-11-22T08:01:09Z'
-draft: true
 description: |
-  Short description for **Asset Owner**
+  Person or group responsible for an {{< glossary-term title="Information Technology Asset" >}}.
 params:
   contexts:
     - Cyber Security
     - IAM
-  synonyms: []
+    - Information Security
+    - GRC
+  synonyms:
+    - Application Owners
+    - Resource Owner
+    - Service Owner
   abbreviations: []
-  related: []
+  related:
+    - Business Asset Owner
+    - Asset Administrator
+    - Risk Owner
+    - Subject Matter Expert
   externalResources: []
 ---

@@ -10,7 +10,7 @@ params:
   abbreviations:
     - IT
   related:
-    - information-and-communication-technology
+    - Information and Communication Technology
   externalResources:
     - title: Information Technology
       source: NIST Glossary
@@ -20,4 +20,4 @@ params:
 The study or use of hardware and software to manage, store, retrieve, and deliver
 data.
 
-A subset of {{< glossary-term term="information-and-communication-technology" >}}.
+A subset of {{< glossary-term title="Information and Communication Technology" >}}.

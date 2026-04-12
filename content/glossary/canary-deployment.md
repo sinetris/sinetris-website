@@ -11,6 +11,7 @@ params:
     - Networking
   synonyms: []
   abbreviations: []
-  related: []
+  related:
+    - Blue/Green Deployment
   externalResources: []
 ---

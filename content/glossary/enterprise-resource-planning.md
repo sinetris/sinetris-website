@@ -11,7 +11,8 @@ params:
     - Information Security
     - GRC
   synonyms: []
-  abbreviations: []
+  abbreviations:
+    - ERP
   related: []
   externalResources: []
 ---

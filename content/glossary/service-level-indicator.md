@@ -1,5 +1,5 @@
 ---
-title: Service Level Indicator
+title: Service-Level Indicator
 date: '2025-11-24T16:49:03Z'
 draft: true
 description: |

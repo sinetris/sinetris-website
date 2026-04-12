@@ -1,5 +1,5 @@
 ---
-title: Service Level Objective
+title: Service-Level Objective
 date: '2025-11-24T16:49:18Z'
 draft: true
 description: |

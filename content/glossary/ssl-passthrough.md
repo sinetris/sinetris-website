@@ -16,6 +16,6 @@ params:
     - SSL/TLS Passthrough
     - TLS Passthrough
   related:
-    - ssl-termination
-    - ssl-bridging
+    - SSL-Termination
+    - SSL-Bridging
 ---

@@ -8,4 +8,11 @@ params:
   contexts:
     - Cyber Security
     - IAM
+    - Information Security
+  synonyms:
+    - Least Privilege
+  abbreviations:
+    - PoLP
+  related: []
+  externalResources: []
 ---

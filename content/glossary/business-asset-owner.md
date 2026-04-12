@@ -8,10 +8,13 @@ params:
   contexts:
     - Cyber Security
     - IAM
+    - Information Security
+    - GRC
   synonyms:
     - Business Owner
   abbreviations: []
   related:
     - Asset Owner
+    - Risk Owner
   externalResources: []
 ---

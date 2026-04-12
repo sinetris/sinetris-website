@@ -12,7 +12,8 @@ params:
     - Tech
     - GRC
   synonyms: []
-  abbreviations: []
+  abbreviations:
+    - OLA
   related: []
   externalResources: []
 ---

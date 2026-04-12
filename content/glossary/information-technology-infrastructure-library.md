@@ -10,7 +10,8 @@ params:
     - IAM
     - Information Security
   synonyms: []
-  abbreviations: []
+  abbreviations:
+    - ITIL
   related: []
   externalResources: []
 ---

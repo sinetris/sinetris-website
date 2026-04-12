@@ -10,6 +10,7 @@ params:
     - Tech
   synonyms: []
   abbreviations: []
-  related: []
+  related:
+    - Canary Deployment
   externalResources: []
 ---

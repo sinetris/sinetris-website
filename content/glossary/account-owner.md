@@ -9,6 +9,7 @@ params:
     - Cyber Security
     - IAM
     - Information Security
+    - GRC
   synonyms: []
   abbreviations: []
   related: []

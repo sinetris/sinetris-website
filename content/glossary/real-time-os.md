@@ -9,6 +9,6 @@ params:
   abbreviations:
     - RTOS
   related:
-    - real-time
-    - real-time-computing
+    - Real Time
+    - Real-Time Computing
 ---

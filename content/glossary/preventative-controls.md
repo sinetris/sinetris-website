@@ -10,6 +10,10 @@ params:
     - Information Security
   synonyms: []
   abbreviations: []
-  related: []
+  related:
+    - Security Controls
+    - Detective Controls
+    - Proactive Controls
+    - Responsive Controls
   externalResources: []
 ---

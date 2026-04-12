@@ -10,7 +10,7 @@ params:
     - Tech
   synonyms: []
   abbreviations:
-    - MQTP
+    - MQTT
   related: []
   externalResources: []
 ---

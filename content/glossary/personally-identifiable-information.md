@@ -1,5 +1,6 @@
 ---
 title: Personally Identifiable Information
+linkTitle: Personally Identifiable Information (PII)
 date: '2025-11-24T16:44:31Z'
 draft: true
 description: |
@@ -15,6 +16,6 @@ params:
   abbreviations:
     - PII
   related:
-    - GDPR
+    - General Data Protection Regulation
   externalResources: []
 ---

@@ -8,8 +8,10 @@ params:
   contexts:
     - Cyber Security
     - GitOps
+    - Tech
   synonyms: []
-  abbreviations: []
+  abbreviations:
+    - IaC
   related: []
   externalResources: []
 ---

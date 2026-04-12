@@ -10,7 +10,8 @@ params:
     - IAM
     - Information Security
     - Tech
-  synonyms: []
+  synonyms:
+    - Monoliths
   abbreviations: []
   related:
     - Microservice

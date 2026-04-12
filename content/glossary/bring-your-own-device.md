@@ -1,5 +1,6 @@
 ---
 title: Bring Your Own Device
+linkTitle: Bring Your Own Device (BYOD)
 date: '2025-11-10T14:38:41Z'
 draft: true
 description: |
@@ -8,8 +9,10 @@ params:
   contexts:
     - Cyber Security
     - IAM
+    - Information Security
   synonyms: []
-  abbreviations: []
+  abbreviations:
+    - BYOD
   related: []
   externalResources: []
 ---

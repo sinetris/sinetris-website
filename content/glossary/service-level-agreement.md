@@ -1,5 +1,5 @@
 ---
-title: Service Level Agreement
+title: Service-Level Agreement
 date: '2025-11-24T16:48:49Z'
 draft: true
 description: |

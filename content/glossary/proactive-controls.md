@@ -3,9 +3,7 @@ title: Proactive Controls
 date: '2025-11-24T12:56:03Z'
 description: |
   A strategy designed to prevent attacks and identify vulnerabilities before they
-  are exploited, focusing on prediction and prevention rather than simply reacting,
-  anticipating potential problems or targets and taking action to prepare in advance,
-  rather than waiting for them to occur.
+  are exploited.
 params:
   contexts:
     - Cyber Security
@@ -27,3 +25,8 @@ params:
       source: AWS Prescriptive Guidance
       sourceLink: https://docs.aws.amazon.com/prescriptive-guidance/
 ---
+
+Proactive Controls are a strategy designed to prevent attacks and identify vulnerabilities
+before they are exploited, focusing on prediction and prevention rather than simply
+reacting, anticipating potential problems or targets and taking action to prepare
+in advance, rather than waiting for them to occur.

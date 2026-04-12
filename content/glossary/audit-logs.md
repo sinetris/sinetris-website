@@ -8,6 +8,8 @@ params:
   contexts:
     - Cyber Security
     - IAM
+    - Information Security
+    - GRC
   synonyms: []
   abbreviations: []
   related: []

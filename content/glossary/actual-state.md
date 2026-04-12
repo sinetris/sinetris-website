@@ -2,8 +2,8 @@
 title: Actual State
 date: '2025-11-10T13:47:54Z'
 description: |
-  The Actual State is the current and factual condition of a system or its data
-  as opposed to the the {{< glossary-term term="desired-state" >}}.
+  Current and factual condition of a system or its data as opposed to the
+  {{< glossary-term title="Desired State" >}}.
 params:
   contexts:
     - Cyber Security
@@ -14,7 +14,7 @@ params:
     - Current State
   abbreviations: []
   related:
-    - desired-state
-    - drift
+    - Desired State
+    - Drift
   externalResources: []
 ---
