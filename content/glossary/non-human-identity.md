@@ -11,7 +11,7 @@ params:
   synonyms: []
   abbreviations: []
   related:
-    - identity-and-access-management
+    - Identity and Access Management
   externalResources:
     - title: 'Non-Human Identity Management: Mature or Just Getting Started?'
       source: KuppingerCole Analysts

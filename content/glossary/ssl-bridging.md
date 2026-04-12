@@ -11,12 +11,9 @@ params:
     - Tech
     - Networking
   synonyms:
-    - SSL/TLS Termination
-    - TLS Termination
-    - SSL offloading
-    - SSL/TLS offloading
-    - TLS offloading
+    - SSL/TLS re-encryption
+    - TLS re-encryption
   related:
-    - ssl-passthrough
-    - ssl-termination
+    - SSL-Passthrough
+    - SSL-Termination
 ---

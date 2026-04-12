@@ -19,6 +19,6 @@ params:
     - SSL/TLS offloading
     - TLS offloading
   related:
-    - ssl-passthrough
-    - ssl-bridging
+    - SSL-Passthrough
+    - SSL-Bridging
 ---

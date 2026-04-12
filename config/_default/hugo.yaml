@@ -1,17 +1,15 @@
 ---
 title: Sinetris's viewpoints
 baseURL: https://sinetris.info/
-languageCode: en
+defaultContentLanguage: en
+
 theme:
   - github.com/sinetris/sine-die
 
 module:
-  proxy: direct
   hugoVersion:
     extended: true
-    min: "0.146.0"
-  imports:
-    - path: github.com/sinetris/sine-die
+    min: "0.158.0"
 
 markup:
   highlight:
@@ -30,9 +28,19 @@ params:
   tagline: Pragmatic overviews by Duilio Ruggiero
   showSearchUI: true
   enableFavicons: true
+  author:
+    email: duilio@sinetris.info
+    name: Duilio Ruggiero
+    link: 'https://sinetris.info'
   license: CC-BY-4.0
   licenselink: https://github.com/sinetris/sinetris-website/blob/main/LICENSE-DOCS
   logo: images/sinetris-logo.svg
+  # Theme configuration
+  SineDie:
+    SearchEngine: pagefind
+    SidebarMenu:
+      MaxLevels: 3
+      PagesOrder: ByWeight
 
 menus:
   main:

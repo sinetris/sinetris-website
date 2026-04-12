@@ -16,7 +16,7 @@ menus:
 ### Have a Plan B for disaster recovery
 
 During a disaster recovery you want to be fast to respect your
-{{< glossary-term term="recovery-time-objective" >}}.
+{{< glossary-term title="Recovery Time Objective" >}}.
 
 It is possible, for example, to restore the operation of a service using snapshots
 (both volumes and instances).

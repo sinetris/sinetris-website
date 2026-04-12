@@ -10,5 +10,5 @@ params:
   abbreviations:
     - RTO
   related:
-    - recovery-point-objective
+    - Recovery Point Objective
 ---

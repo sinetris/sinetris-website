@@ -13,6 +13,6 @@ params:
   abbreviations:
     - ITSM
   related:
-    - ITAM
+    - Information Technology Asset Management
   externalResources: []
 ---

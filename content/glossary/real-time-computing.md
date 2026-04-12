@@ -13,8 +13,8 @@ params:
   abbreviations:
     - RTC
   related:
-    - real-time
-    - real-time-os
+    - Real Time
+    - Real-Time Operating System
 ---
 
 ## Description

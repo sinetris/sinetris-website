@@ -1,0 +1,5 @@
+---
+taxonomy:
+  contexts: /glossary-contexts/
+term:
+  contexts: /glossary-contexts/:slug/

@@ -11,8 +11,8 @@ params:
   abbreviations:
     - RT
   related:
-    - real-time-computing
-    - real-time-os
+    - Real-Time Computing
+    - Real-Time Operating System
 ---
 
 Reported at the same time something takes place or delivered in a short time.

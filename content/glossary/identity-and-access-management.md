@@ -15,6 +15,8 @@ params:
   abbreviations:
     - IAM
   related: []
+  internalResources:
+    - /topics/IAM/
   externalResources:
     - title: The Definitive Guide to Identity & Access Management
       source: KuppingerCole Analysts
