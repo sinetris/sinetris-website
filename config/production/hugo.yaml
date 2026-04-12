@@ -1,0 +1,7 @@
+---
+theme:
+  - github.com/sinetris/sine-die
+
+module:
+  imports:
+    - path: github.com/sinetris/sine-die
