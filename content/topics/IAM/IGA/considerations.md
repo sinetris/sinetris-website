@@ -15,8 +15,9 @@ menus:
 
 ## Assets and people
 
-Ensure to have proper Orphan Account Monitoring (for people leaving the company,
-in parental leave, etc) and delegation for people assigned to managing assets
-(Owners, Application Administrators, Infrastructure Administrators, etc).
+Ensure to have proper Orphan Account Monitoring (for example, people leaving the
+company) and delegation (for example, people in sick or parental leave) for people
+assigned to managing assets (Asset Owners, Application Administrators, Infrastructure
+Administrators, etc).
 Take into consideration that people might be out of office because in vacation,
 out sick, at a conference, etc.

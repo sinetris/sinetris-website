@@ -1,5 +1,6 @@
 ---
-title: IAM
+title: Identity and Access Management
+linkTitle: IAM
 date: '2024-06-28T10:15:50Z'
 description: A pragmatic overview on Identity and Access Management
 weight: 50
@@ -24,22 +25,24 @@ omniscience on my part.
 ## IAM Infratructure
 
 Plan a flexible IAM architecture as a means of facilitating Governance,
-Compliance, and Risk (GCR) management through the use of Governance as Code
-and Policies as Code, for real-time, explicitly evaluated, adaptive trust
-in a zero standing privileges and zero-trust architecture.
+Compliance, and Risk (GCR) management through the use of Infrastructure as Code,
+Governance as Code, and Policies as Code, for {{< glossary-term
+title="Real-Time Computing" fragment="soft-real-time" >}}, explicitly evaluated,
+adaptive trust in a zero standing privileges and zero-trust architecture.
 
 This document attempts to align requirements and perspectives of:
 
-- Compliance and Risk Management
+- Governance, Risk management and Compliance (GRC)
 - Information Security
 - HR department
 - Information Technology
 - Cyber Security
 
-The Information Security team is often considered as part of Compliance and
-Risk Management and the Cyber Security team as part of Information Technology,
-but given their significant impact for an effective planning of projects built
-around IAM, they have been included in the list as separate entities.
+The Information Security team and the HR department are often considered as part
+of Governance, Risk management and Compliance, and the Cyber Security team as part
+of Information Technology, but given their significant impact for an effective
+planning of projects built around IAM, they have been included in the list as
+separate entities.
 
 The implementation of a proper IAM infrastructure requires the involvement of
 people from diﬀerent teams and departments. Underestimating the need to involve
@@ -48,21 +51,23 @@ resources, and poor adoption.
 
 The following is an incomplete list of candidate stakeholders:
 
-- Human Resources (HR)
 - Governance, Risk management and Compliance (GRC)
-  - Information Security (especially the CISO)
-  - Data Protection Oﬃcer
-  - Compliance Oﬃcers
-  - Risk Management
-  - Internal Auditors
+  - Human Resources (HR)
+  - {{< glossary-term title="Information Security" >}} (especially the
+    {{< glossary-term title="Chief Information Security Officer" >}})
+  - {{< glossary-term title="Data Protection Officer" >}}
+  - {{< glossary-term title="Compliance Officer"
+    linkTitle="Compliance Officers" >}}
+  - Risk Management team
+  - {{< glossary-term title="Internal Auditor" linkTitle="Internal Auditors" >}}
   - Legal team
-  - Financial risk
+  - Financial risk team
 - Information Technology
   - CTO
   - Software Architects
   - Cyber Security
   - Site Reliability Engineering (SRE)
-  - Platform
+  - Platform team
   - Business Application Owners
   - Engineering Managers
 
