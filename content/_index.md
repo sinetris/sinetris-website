@@ -47,7 +47,8 @@ Administration (**IGA**).
 
 If you are curious about the origin of the name `Sinetris`, it comes from a
 character I created almost 30 years ago for a tabletop RPG (I think it was
-[Vampire: The Masquerade][vampire-masquerade]) and have been using ever since.
+[Vampire: The Masquerade][vampire-masquerade]) and it has stuck with me ever
+since.
 
 [rails-095]: <https://web.archive.org/web/20141013014121/http://weblog.rubyonrails.org/2005/1/26/rails-0-9-5-a-world-of-fixes-and-tweaks/> "Rails 0.9.5 (on The Wayback Machine)"
 [vampire-masquerade]: <https://en.wikipedia.org/wiki/Vampire:_The_Masquerade> "Vampire: The Masquerade (on Wikipedia)"
